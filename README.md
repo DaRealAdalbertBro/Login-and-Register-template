@@ -9,4 +9,4 @@ A simple login and registration template that includes email verification, hashi
 
 ![image](https://user-images.githubusercontent.com/56306485/161126260-b8f630cf-876a-4dc1-ae1a-2bb7ddc1dd1d.png)
 
-![image](https://user-images.githubusercontent.com/56306485/161125806-fafa5081-7160-409c-9f66-36970017c163.png)
+![image](https://user-images.githubusercontent.com/56306485/161126651-9a6d56ba-ca6e-4a27-b599-b3225a7e180c.png)
